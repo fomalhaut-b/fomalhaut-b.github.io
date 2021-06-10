@@ -1,5 +1,4 @@
 ---
-usemathjax: true
 layout: post
 title:  "testpost"
 date:   2021-06-10 23:58:09 +0530
@@ -7,4 +6,4 @@ categories: test
 ---
 hello, test post
 Does mathjax work?
-$$ z^2 = x^2 + y^2 $$
+$$  $$
