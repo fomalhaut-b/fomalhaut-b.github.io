@@ -6,4 +6,4 @@ categories: test
 ---
 hello, test post
 Does mathjax work?
-$$ x^2 = y $$
+$$ x = y^2 $$
