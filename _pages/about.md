@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year PhD student in Computer Science at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), where I am fortunate to be supervised by [Prof. Sandeep Silwal](https://sandeepsilwal.com/) and [Prof. Misha Khodak](https://pages.cs.wisc.edu/~khodak/).
+I am a first-year PhD student in Computer Science at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), where I am lucky to work with [Sandeep Silwal](https://sandeepsilwal.com/) and [Misha Khodak](https://pages.cs.wisc.edu/~khodak/).
 
 Previously, I completed a research master's in Computer Science at the [University of Waterloo](https://uwaterloo.ca/), and I was a math undergraduate at the [Indian Institute of Science, Bangalore](https://iisc.ac.in/).
 
