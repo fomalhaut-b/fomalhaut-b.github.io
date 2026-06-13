@@ -9,13 +9,13 @@ nav_order: 1
 
 ## Selected Publications
 
-1. **Compact Geometric Representations of Hierarchies** (COLT 2026)
+1. **Compact Geometric Representations of Hierarchies** <span style="color: var(--global-theme-color); font-weight: 600; white-space: nowrap;">[COLT 2026]</span>
 
    <u>Prashant Gokhale</u>, <a href="https://people.csail.mit.edu/indyk/" style="color: inherit; text-decoration: none;">Piotr Indyk</a>, Yuhao Liu, <a href="https://sandeepsilwal.com/" style="color: inherit; text-decoration: none;">Sandeep Silwal</a>, Tony Wang, and Haike Xu
 
    [[Conference](https://learningtheory.org/colt2026/accepted.html)]
 
-2. **Adversarially Robust Approximate Furthest Neighbor** (ICML 2026)
+2. **Adversarially Robust Approximate Furthest Neighbor** <span style="color: var(--global-theme-color); font-weight: 600; white-space: nowrap;">[ICML 2026]</span>
 
    Kiarash Banihashem, Jeff Giliberti, <u>Prashant Gokhale</u>, Samira Goudarzi, <a href="https://www.cs.umd.edu/~hajiagha/" style="color: inherit; text-decoration: none;">MohammadTaghi Hajiaghayi</a>, Yuhao Liu, Morteza Monemizadeh, and <a href="https://sandeepsilwal.com/" style="color: inherit; text-decoration: none;">Sandeep Silwal</a>
 
@@ -23,13 +23,13 @@ nav_order: 1
 
 ## Other Publications
 
-1. **Using Ray-Shooting Queries for Sublinear Algorithms for Dominating Sets in RDV Graphs** (SOFSEM 2026)
+1. **Using Ray-Shooting Queries for Sublinear Algorithms for Dominating Sets in RDV Graphs** <span style="color: var(--global-theme-color); font-weight: 600; white-space: nowrap;">[SOFSEM 2026]</span>
 
    <a href="https://cs.uwaterloo.ca/~biedl/" style="color: inherit; text-decoration: none;">Therese Biedl</a> and <u>Prashant Gokhale</u>
 
    [[arXiv](https://arxiv.org/abs/2601.04626)] [[Conference](https://sofsem.uj.edu.pl/)]
 
-2. **Finding Maximum Matchings in RDV Graphs Efficiently** (CCCG 2024; journal version in CGT 2025)
+2. **Finding Maximum Matchings in RDV Graphs Efficiently** <span style="color: var(--global-theme-color); font-weight: 600; white-space: nowrap;">[CCCG 2024 / CGT 2025]</span>
 
    <a href="https://cs.uwaterloo.ca/~biedl/" style="color: inherit; text-decoration: none;">Therese Biedl</a> and <u>Prashant Gokhale</u>
 
@@ -37,7 +37,7 @@ nav_order: 1
 
    [[arXiv](https://arxiv.org/abs/2406.03632)] [[Journal](https://doi.org/10.57717/cgt.v5i2.72)]
 
-3. **Improved and Generalized Algorithms for Burning a Planar Point Set** (WALCOM 2023)
+3. **Improved and Generalized Algorithms for Burning a Planar Point Set** <span style="color: var(--global-theme-color); font-weight: 600; white-space: nowrap;">[WALCOM 2023]</span>
 
    <u>Prashant Gokhale</u>, Mark Keil, and Debajyoti Mondal
 
