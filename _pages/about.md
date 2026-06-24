@@ -30,13 +30,21 @@ Previously, I completed a research master's in Computer Science at the [Universi
 
 I like to think about problems at the intersection of algorithms and machine learning.
 
+## Preprints
+
+1. **Dynamic Estimation of Slowly Varying Sequences** <span style="color: var(--global-theme-color); font-weight: 600; white-space: nowrap;">[Preprint 2026]</span>
+
+   <u>Prashant Gokhale</u>, <a href="https://pages.cs.wisc.edu/~khodak/" style="color: inherit; text-decoration: none;">Mikhail Khodak</a>, and <a href="https://sandeepsilwal.com/" style="color: inherit; text-decoration: none;">Sandeep Silwal</a>
+
+   [[arXiv](https://arxiv.org/abs/2606.23655)]
+
 ## Selected Publications
 
 1. **Compact Geometric Representations of Hierarchies** <span style="color: var(--global-theme-color); font-weight: 600; white-space: nowrap;">[COLT 2026]</span>
 
    <u>Prashant Gokhale</u>, <a href="https://people.csail.mit.edu/indyk/" style="color: inherit; text-decoration: none;">Piotr Indyk</a>, Yuhao Liu, <a href="https://sandeepsilwal.com/" style="color: inherit; text-decoration: none;">Sandeep Silwal</a>, Tony Wang, and Haike Xu
 
-   [[Conference](https://learningtheory.org/colt2026/accepted.html)]
+   [[arXiv](https://arxiv.org/abs/2606.18520)] [[Conference](https://learningtheory.org/colt2026/accepted.html)]
 
 2. **Adversarially Robust Approximate Furthest Neighbor** <span style="color: var(--global-theme-color); font-weight: 600; white-space: nowrap;">[ICML 2026]</span>
 
