@@ -30,6 +30,8 @@ Previously, I completed a research master's in Computer Science at the [Universi
 
 I like to think about problems at the intersection of algorithms and machine learning.
 
+Feel free to email me at firstname.lastname@wisc.edu.
+
 ## Preprints
 
 1. **Dynamic Estimation of Slowly Varying Sequences** <span style="color: var(--global-theme-color); font-weight: 600; white-space: nowrap;">[Preprint 2026]</span>
